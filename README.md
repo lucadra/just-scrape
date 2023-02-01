@@ -13,4 +13,3 @@ Ensure you have Python 3.4 or higher installed. Execute one of the following com
 
 #### Windows
 `curl https://raw.githubusercontent.com/lucadra/just-scrape/main/justscrape.py -o justscrape.py && python justscrape.py`
-\
