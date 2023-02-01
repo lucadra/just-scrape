@@ -1,8 +1,9 @@
-# just-scrape
-A simple just eat scraper, takes a zip-code as input, returns a csv.
+# JustScrape
+A simple [JustEat](https://www.just-eat.co.uk/) scraper. Takes a zip-code as input, returns a csv.
+As of February 1<sup>st</sup> 2022 the script has only been tested on the [italian website](https://www.justeat.it/).
 
-## How to use
-Assuming you have python installed, run one of the following commands according to your os.
+## How to use?
+Ensure you have Python 3.4 or higher installed. Execute the following commands based on your os:
 
 #### Linux
 `wget -O - https://raw.githubusercontent.com/lucadra/just-scrape/main/justscrape.py | python3`
